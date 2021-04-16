@@ -45,7 +45,7 @@ header p {
   }
 
 #side-bar {
-  width: 350px;
+  width: 370px;
   height: 950px;
   margin-left: 50px;
   background-color: #EAE7E5;
@@ -156,7 +156,7 @@ header p {
 }
 
 .lines{
-  margin:13px auto 0px 60px;
+  margin:13px auto 0px 40px;
   width: 20px;
   align-content: center;
   height: 100%;
@@ -193,7 +193,7 @@ header p {
 #right-column {
   display: inline-block;
   width: 550px;
-  margin-left: 20px;
+  margin-left: 15px;
   height: 1050px;
 }
 
